@@ -23,7 +23,7 @@ git clone https://github.com/kleberton-santos/Atividade1-PraTi.git
 - Abra o terminal integrado no VS Code (Ctrl + ` ou através do menu).
 - npm install prompt-sync
 - No inicio do arquivo já tem o prompt-sync globalmente para utilizar em todos os exercícios:
-- Todos os enunciados estão no arquivo e ficam comentados com /*Exercicios*/
+- Todos os enunciados estão no arquivo e ficam comentados com /* Exercicios */
 - Todas as respostas estão comentadas com //
 - Para executar as resposta basta selecionar o código do sinal // Inicio até // Fim.
 - Use Ctrl + ; para remover os comentários.
