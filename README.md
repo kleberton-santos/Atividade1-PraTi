@@ -16,8 +16,9 @@ Os exercícios estão contidos em um arquivo JavaScript único. Cada exercício 
 ### Clonando o Repositório
 
 Para clonar o repositório para sua máquina local, use o seguinte comando:
+```bash
 git clone https://github.com/kleberton-santos/Atividade1-PraTi.git
-
+```
 ### Instruções
 - Abra o Vscode e execute a pasta do projeto Atividade 1
 - Abra o terminal integrado no VS Code (Ctrl + ` ou através do menu).
